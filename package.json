@@ -1,0 +1,16 @@
+{
+  "name": "qr-code-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-feather": "^2.0.10",
+    "react-qr-code": "^2.0.12",
+    "styled-components": "^6.1.8"
+  },
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
